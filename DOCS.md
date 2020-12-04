@@ -14,6 +14,7 @@
   - [repeat-word-or-characters.js](#srcinteractionsrepeat-word-or-charactersjs)
   - [reverse-word.js](#srcinteractionsreverse-wordjs)
   - [set-word.js](#srcinteractionsset-wordjs)
+  - [test.js](#srcinteractionstestjs)
 - [logic](#logic)
   - [remove-characters.js](#srclogicremove-charactersjs)
   - [repeat-characters.js](#srclogicrepeat-charactersjs)
@@ -123,6 +124,10 @@ allows a user to set a new value for the saved word.
 if there is no saved word, the user is told so and the interaction ends.
 if there is a saved word, the user is asked to confirm replacing it.
 if the user confirms, they enter a new word that replaces the old one.
+
+---
+
+## [./src/interactions/test.js](./src/interactions/test.js?study)
 
 [TOP](#DOCS)
 
